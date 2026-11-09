@@ -7,8 +7,9 @@ reverts it. Anything Patch should not handle alone, such as a domain, a store
 or a login, goes to me.
 
 Live at [patchlamp.com](https://patchlamp.com), for home-service businesses
-in Utah, on plans from $20 a month. Built and run by one person, me, working
-with Claude. Operating since September 2026.
+in Utah, on monthly plans ([current prices](https://patchlamp.com/pricing)).
+Built and run by one person, me, working with Claude. Operating since
+September 2026.
 
 **Why this repository has no code.** Patchlamp is a running business. The
 site, the relay and the toolbelt are private because they are the product.
